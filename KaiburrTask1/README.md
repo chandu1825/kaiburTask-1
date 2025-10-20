@@ -66,7 +66,7 @@ Import and run this collection to test all endpoints:
 > Instructions for using the web interface are in **Task 3**.
 
 ### Screenshots
-![ss](1.jpg)
+![ss](KaiburrTask1/screenshots/1.jpg)
 ![ss](2.jpg)
 ![ss](3.jpg)
 ![ss](4.jpg)
